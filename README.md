@@ -27,6 +27,6 @@ The audio data are extracted from a massive collection of Guqin historical recor
 | Yang Guan San Die<br> (陽關三疊)           | Hsu, Guang-Yi<br>(許光毅)    | 3  | 3  | 单元格 | 单元格 |
 | Yi Gu Jen<br> (憶故人)                     | Chang, Tzu-Chien<br>(張子謙) | 7  | 7  | 单元格 | 单元格 |
 | Yu Lou Chun Hsiao<br> (玉樓春曉-梅庵琴譜)  | Li, Feng<br>(李楓)           | 4  | 6  | 单元格 | 单元格 |
-| Total                                      |                              | 31 | 39 | 单元格 | 单元格 |
+| Total                                      | -                            | 31 | 39 | 单元格 | 单元格 |
 
 For any questions or further information, please contact Yu-Fen Huang (yfhuang@iis.sinica.edu.tw).
