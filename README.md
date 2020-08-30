@@ -15,11 +15,18 @@ Audio data
 -----------
 The audio data are extracted from a massive collection of Guqin historical recording, with the recording years ranging from 1960 to 1990. The audio clips are under the protection of copyright and therefore are not upload to this website. The list of annotated audio clips is as follows:
 
-| Music piece | performer | # of section in score | # of clip in audio | CD | Track no |
-| :-----: | :----: | :----: | :----: | :----: | :----: |
-| Ciou Fong Cih(秋風詞)  | Chen, Sin-Yuan(陳心園) | 1 | 2 | Inimitable Sound and Treasures: The Collection of Historical Audio and Video Tracks from Guqin Legends by GuoPeng (絕響: 國鵬輯近世琴人音像遺珍) CD 48 ISRC: 9787883320944 | CN-C20-15-00468 |
-| 单元格 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
-
-
+| Music piece | performer    | # of section in score | # of clip in audio | CD | Track no |
+| :-----:                    | :----: | :----: | :----: | :----: | :----: |
+| Ciou Fong Cih(秋風詞)      | Chen, Sin-Yuan(陳心園) | 1 | 2 | Inimitable Sound and Treasures: The Collection of Historical Audio and Video Tracks from Guqin Legends by GuoPeng (絕響: 國鵬輯近世琴人音像遺珍) CD 48 ISRC: 9787883320944 | CN-C20-15-00468 |
+| Fong Cio Huang (鳳求凰)    | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
+| Gu Cin Yin (古琴吟)        | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
+| Guan Shan Yue (關山月)     | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
+| Jiou Kuang (酒狂) | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
+| Liang Siao Yin (良宵引)    | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
+| Siang Jiang Yuan (湘江怨)     | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
+| Yang Guan San Die (陽關三疊)  | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
+| Yi Gu Jen (憶故人)            | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
+| Yu Lou Chun Hsiao (玉樓春曉-梅庵琴譜)  | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
+| Total                                  | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
 
 For any questions or further information, please contact Yu-Fen Huang (yfhuang@iis.sinica.edu.tw).
