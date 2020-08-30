@@ -15,9 +15,10 @@ Audio data
 -----------
 The audio data are extracted from a massive collection of Guqin historical recording, with the recording years ranging from 1960 to 1990. The audio clips are under the protection of copyright and therefore are not upload to this website. The list of annotated audio clips is as follows:
 
-| 左对齐 | 右对齐 | 居中对齐 | 居中对齐 | 居中对齐 | 居中对齐 |
-| :-----| ----: | :----: | :----: | :----: | :----: |
-| 单元格 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
+| Music piece | performer | # of section in score | # of clip in audio | CD | Track no |
+| :-----: | :----: | :----: | :----: | :----: | :----: |
+| Ciou Fong Cih(秋風詞)  | Chen, Sin-Yuan(陳心園) | 1 | 2 | Inimitable Sound and Treasures: The Collection of Historical Audio and Video Tracks from Guqin Legends by GuoPeng (絕響: 國鵬輯近世琴人音像遺珍)
+CD 48 ISRC: 9787883320944  | CN-C20-15-00468 |
 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
 
 
