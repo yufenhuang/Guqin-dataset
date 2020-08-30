@@ -15,6 +15,10 @@ Audio data
 -----------
 The audio data are extracted from a massive collection of Guqin historical recording, with the recording years ranging from 1960 to 1990. The audio clips are under the protection of copyright and therefore are not upload to this website. The list of annotated audio clips is as follows:
 
+| 左对齐 | 右对齐 | 居中对齐 | 居中对齐 | 居中对齐 | 居中对齐 |
+| :-----| ----: | :----: | :----: | :----: | :----: |
+| 单元格 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
+| 单元格 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
 
 
 
