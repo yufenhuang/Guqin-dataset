@@ -18,15 +18,15 @@ The audio data are extracted from a massive collection of Guqin historical recor
 | Music piece | performer                    | # of section in score    | # of clip in audio | CD | Track no |
 | :-----:                                    | :----:                   | :----: | :----: | :----: | :----: |
 | Ciou Fong Cih<br> (秋風詞)                 | Chen, Sin-Yuan<br>(陳心園)   | 1  | 2  | Inimitable Sound and Treasures:<br> The Collection of Historical<br> Audio and Video Tracks<br> from Guqin Legends by GuoPeng <br>(絕響: 國鵬輯近世琴人音像遺珍)<br> CD 48 ISRC: 9787883320944 | CN-C20-15-00468 |
-| Fong Cio Huang<br> (鳳求凰)                | Li, Feng<br>(李楓)           | 1  | 2  | 单元格 | 单元格 |
-| Gu Cin Yin<br> (古琴吟)                    | Hsu, Guang-Yi<br>(許光毅)    | 1  | 1  | 单元格 | 单元格 |
-| Guan Shan Yue<br> (關山月)                 | Li, Feng<br>(李楓)           | 3  | 5  | 单元格 | 单元格 |
-| Jiou Kuang<br> (酒狂)                      | Chang, Tzu-Chien<br>(張子謙) | 5  | 5  | 单元格 | 单元格 |
-| Liang Siao Yin<br> (良宵引)                | Li, Feng<br>(李楓)           | 3  | 5  | 单元格 | 单元格 |
-| Siang Jiang Yuan<br> (湘江怨)              | Li, Feng<br>(李楓)           | 3  | 3  | 单元格 | 单元格 |
-| Yang Guan San Die<br> (陽關三疊)           | Hsu, Guang-Yi<br>(許光毅)    | 3  | 3  | 单元格 | 单元格 |
-| Yi Gu Jen<br> (憶故人)                     | Chang, Tzu-Chien<br>(張子謙) | 7  | 7  | 单元格 | 单元格 |
-| Yu Lou Chun Hsiao<br> (玉樓春曉-梅庵琴譜)  | Li, Feng<br>(李楓)           | 4  | 6  | 单元格 | 单元格 |
-| Total                                      | -                            | 31 | 39 | 单元格 | 单元格 |
+| Fong Cio Huang<br> (鳳求凰)                | Li, Feng<br>(李楓)           | 1  | 2  | 单元格 | - |
+| Gu Cin Yin<br> (古琴吟)                    | Hsu, Guang-Yi<br>(許光毅)    | 1  | 1  | 单元格 | CN-C20-15-00521 |
+| Guan Shan Yue<br> (關山月)                 | Li, Feng<br>(李楓)           | 3  | 5  | 单元格 | - |
+| Jiou Kuang<br> (酒狂)                      | Chang, Tzu-Chien<br>(張子謙) | 5  | 5  | 单元格 | CN-C20-15-00283 |
+| Liang Siao Yin<br> (良宵引)                | Li, Feng<br>(李楓)           | 3  | 5  | 单元格 | Track 02 |
+| Siang Jiang Yuan<br> (湘江怨)              | Li, Feng<br>(李楓)           | 3  | 3  | 单元格 | - |
+| Yang Guan San Die<br> (陽關三疊)           | Hsu, Guang-Yi<br>(許光毅)    | 3  | 3  | 单元格 | CN-C20-15-00526 |
+| Yi Gu Jen<br> (憶故人)                     | Chang, Tzu-Chien<br>(張子謙) | 7  | 7  | 单元格 | CN-C20-15-00313 |
+| Yu Lou Chun Hsiao<br> (玉樓春曉-梅庵琴譜)  | Li, Feng<br>(李楓)           | 4  | 6  | 单元格 | Track 01 |
+| Total                                      | -                            | 31 | 39 | - | - |
 
 For any questions or further information, please contact Yu-Fen Huang (yfhuang@iis.sinica.edu.tw).
