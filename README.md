@@ -1,4 +1,4 @@
-<img src="https://github.com/yufenhuang/Guqin-dataset/blob/master/gq_pic.jpg" width="70%" height="70%" />
+<img src="https://github.com/yufenhuang/Guqin-dataset/blob/master/gq_pic.jpg" width="95%" height="95%" />
 
 Guqin dataset (GQ39)
 -----------
