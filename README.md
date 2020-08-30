@@ -17,7 +17,7 @@ The audio data are extracted from a massive collection of Guqin historical recor
 
 | Music piece | performer | # of section in score | # of clip in audio | CD | Track no |
 | :-----: | :----: | :----: | :----: | :----: | :----: |
-| Ciou Fong Cih(秋風詞)  | Chen, Sin-Yuan(陳心園) | 1 | 2 | Inimitable Sound and Treasures: The Collection of Historical Audio and Video Tracks from Guqin Legends by GuoPeng (絕響: 國鵬輯近世琴人音像遺珍)CD48ISRC: 9787883320944  | CN-C20-15-00468 |
+| Ciou Fong Cih(秋風詞)  | Chen, Sin-Yuan(陳心園) | 1 | 2 | Inimitable Sound and Treasures: The Collection of Historical Audio and Video Tracks from Guqin Legends by GuoPeng (絕響: 國鵬輯近世琴人音像遺珍) CD48ISRC: 9787883320944  | CN-C20-15-00468 |
 
 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
 
