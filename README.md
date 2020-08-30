@@ -21,7 +21,7 @@ The audio data are extracted from a massive collection of Guqin historical recor
 | Fong Cio Huang<br> (鳳求凰)                | Li, Feng<br>(李楓)           | 1  | 2  | 单元格 | 单元格 |
 | Gu Cin Yin<br> (古琴吟)                    | Hsu, Guang-Yi<br>(許光毅)    | 1  | 1  | 单元格 | 单元格 |
 | Guan Shan Yue<br> (關山月)                 | Li, Feng<br>(李楓)           | 3  | 5  | 单元格 | 单元格 |
-| Jiou Kuang<br> (酒狂) | 单元格             | Chang, Tzu-Chien<br>(張子謙) | 5  | 5  | 单元格 | 单元格 |
+| Jiou Kuang<br> (酒狂)                      | Chang, Tzu-Chien<br>(張子謙) | 5  | 5  | 单元格 | 单元格 |
 | Liang Siao Yin<br> (良宵引)                | Li, Feng<br>(李楓)           | 3  | 5  | 单元格 | 单元格 |
 | Siang Jiang Yuan<br> (湘江怨)              | Li, Feng<br>(李楓)           | 3  | 3  | 单元格 | 单元格 |
 | Yang Guan San Die<br> (陽關三疊)           | Hsu, Guang-Yi<br>(許光毅)    | 3  | 3  | 单元格 | 单元格 |
