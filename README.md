@@ -1,4 +1,5 @@
 <img src="https://github.com/yufenhuang/Guqin-dataset/blob/master/gq_pic.jpg" width="95%" height="95%" />
+Photo from: https://www.metmuseum.org/art/collection/search/670501
 
 Guqin dataset (GQ39)
 -----------
