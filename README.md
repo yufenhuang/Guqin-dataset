@@ -4,7 +4,7 @@ Photo from: https://www.metmuseum.org/art/collection/search/670501
 Guqin dataset (GQ39)
 -----------
 
-The Guqin (古琴) is a plucked seven-string Chinese musical instrument existing for over 3,000 years, and has been selected as UNESCO World Cultural Heritage. The GQ39 dataset consists of 39 audio recording clips from 10 prevalent Guqin solo compositions and corresponding note-by-note annotations by experts.
+The Guqin (古琴) is a plucked seven-string Chinese musical instrument existing for over 3,000 years, and has been selected as UNESCO World Cultural Heritage. The GQ39 dataset consists of 39 audio recording clips from 10 prevalent Guqin solo compositions and corresponding note-by-note annotations by experts. The analysis results obtained are detailed in our paper: Yu-Fen Huang, Jeng-I Liang, I-Chieh Wei, Li Su, “JOINT ANALYSIS OF MODE AND PLAYING TECHNIQUE IN GUQINPERFORMANCE WITH MACHINE LEARNING,” in Proceedings of the 21th International Society for Music Information Retrieval Conference, 2020.
 
 
 Playing technique annotation
